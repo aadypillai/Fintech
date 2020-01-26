@@ -3068,7 +3068,8 @@ input, select, textarea {
 		}
 
 		.spotlights > section:nth-child(3) {
-			background-color: rgba(0, 0, 0, 0.1);
+			/* background-color: rgba(0, 0, 0, 0.1); */
+			background: url("https://tinyurl.com/wtqcffd") no-repeat fixed center;
 		}
 
 		.spotlights > section.inactive > .image:before,
