@@ -1,6 +1,7 @@
 .group-photo {
     color: white;
     width: 100%;
+    background: linear-gradient(0deg, rgba(2,0,36,0.7077205882352942) 0%, rgba(9,9,121,0.6488970588235294) 30%, rgba(0,212,255,0) 100%), url('images/join-us-banner.jpg') no-repeat fixed center;
     display: flex;
     justify-content: center;
     align-items: flex-end;
@@ -11,4 +12,12 @@
 }
 .app-timeline {
     padding: 3rem 0;
+}
+.allcaps {
+    letter-spacing: 2px; 
+    opacity: 0.7;
+    text-transform: uppercase;
+}
+.allcaps > span {
+    text-transform: lowercase;
 }
