@@ -18,6 +18,12 @@
     opacity: 0.8;
     text-transform: uppercase;
 }
+.supertitle {
+    font-size: 3.5rem;
+}
 .allcaps > span {
     text-transform: lowercase;
+}
+.title > img {
+    width: 50px;
 }
