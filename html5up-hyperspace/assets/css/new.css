@@ -4,9 +4,9 @@
     background: linear-gradient(0deg, rgba(2,0,36,0.7077205882352942) 0%, rgba(9,9,121,0.6488970588235294) 30%, rgba(0,212,255,0) 100%), url('images/join-us-banner.jpg') no-repeat fixed center;
     display: flex;
     justify-content: center;
-    align-items: flex-end;
+    align-items: center;
     padding: 2rem;
-    font-size: 3rem;
+    font-size: 3.5rem;
     letter-spacing: 2px;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -15,7 +15,7 @@
 }
 .allcaps {
     letter-spacing: 2px; 
-    opacity: 0.7;
+    opacity: 0.8;
     text-transform: uppercase;
 }
 .allcaps > span {
