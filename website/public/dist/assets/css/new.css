@@ -1,0 +1,29 @@
+.group-photo {
+    color: white;
+    width: 100%;
+    background: linear-gradient(0deg, rgba(2,0,36,0.7077205882352942) 0%, rgba(9,9,121,0.6488970588235294) 30%, rgba(0,212,255,0) 100%), url('images/join-us-banner.jpg') no-repeat fixed center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    font-size: 3.5rem;
+    letter-spacing: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.app-timeline {
+    padding: 3rem 0;
+}
+.allcaps {
+    letter-spacing: 2px; 
+    opacity: 0.8;
+    text-transform: uppercase;
+}
+.supertitle {
+    font-size: 3.5rem;
+}
+.allcaps > span {
+    text-transform: lowercase;
+}
+.title > img {
+    width: 50px;
+}
